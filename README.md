@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ataul Ghani
 
-**I'm a WordPress developer passionate about helping businesses grow online** 🚀
+### **I'm a WordPress developer passionate about helping businesses grow online** 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=ataulghani&color=blue)
 
