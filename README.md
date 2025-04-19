@@ -10,8 +10,8 @@ I'm a web developer passionate about open-source, WordPress, and helping busines
 - 📫 How to reach me: [team@ataulswebdesigns.com](mailto:team@ataulswebdesigns.com)
 
 ## 🔧 Languages, Tools:
-- ""HTML"", ""CSS"", ""PHP"", ""JavaScript"", ""MySQL""
-- ""WordPress"", ""WooCommerce"", ""Shopify""
+- **HTML**, **CSS**, **PHP**, **JavaScript**, **MySQL**
+- **WordPress**, **WooCommerce**, **Shopify**
 
 ## 🔗 Let's Connect:
 [![Website](https://img.shields.io/badge/Website-visit-blue)](https://ataulswebdesigns.com/)
