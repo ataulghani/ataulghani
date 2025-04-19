@@ -1,16 +1,22 @@
-## Hi 👋, I'm Ataul Ghani
+# 👋 Hi there, I'm Ataul Ghani
 
-<!--
-**ataulghani/ataulghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about open-source, WordPress, and helping businesses grow online 🚀
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=ataulghani&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+[![Follow on X](https://img.shields.io/badge/Follow%20@yourusername-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/proataul)
+
 ## 💬 Ask me about WordPress, WooCommerce
 ## 📫 How to reach me: team@ataulswebdesigns.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Let's Connect:
+[![Website](https://img.shields.io/badge/Website-visit-blue)](https://ataulswebdesigns.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue)](https://www.linkedin.com/in/ataulghani/)
+[![X](https://img.shields.io/badge/X-follow-1DA1F2)](https://x.com/proataul)
+
+## 🔧 Languages, Tools:
+- HTML, CSS, PHP, JavaScript, MySQL
+- WordPress, WooCommerce, Shopify
+
+## 📊 GitHub Stats
+![Ataul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataulghani&show_icons=true&theme=radical)
