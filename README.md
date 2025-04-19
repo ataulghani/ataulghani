@@ -6,8 +6,8 @@ I'm a web developer passionate about open-source, WordPress, and helping busines
 
 [![Follow on X](https://img.shields.io/badge/Follow%20@proataul-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/proataul)
 
-## 💬 Ask me about WordPress, WooCommerce
-## 📫 How to reach me: team@ataulswebdesigns.com
+- 💬 Ask me about **WordPress**, **WooCommerce**
+- 📫 How to reach me: [team@ataulswebdesigns.com](mailto:team@ataulswebdesigns.com)
 
 ## 🔗 Let's Connect:
 [![Website](https://img.shields.io/badge/Website-visit-blue)](https://ataulswebdesigns.com/)
