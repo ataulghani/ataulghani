@@ -7,7 +7,7 @@
 [![Follow on X](https://img.shields.io/badge/Follow%20@proataul-%23555?style=for-the-badge&logo=x&logoColor=white)](https://x.com/proataul)
 
 - 💬 Ask me about **WordPress**, **WooCommerce**
-- 📫 How to reach me: [team@ataulswebdesigns.com](mailto:team@ataulswebdesigns.com)
+- 📫 How to reach me: [team@ataulswebdesigns.com](mailto:info@ataulswebdesigns.com)
 
 ## 🔧 Languages, Tools:
 - **HTML**, **CSS**, **PHP**, **JavaScript**, **MySQL**
